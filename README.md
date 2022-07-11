@@ -5,4 +5,5 @@ The links to the courses are:
 2. JavaScript: https://www.udemy.com/course/the-complete-javascript-course/
 3. React: https://www.udemy.com/course/react-front-to-back-2022/
 4. Python 3: https://www.codecademy.com/learn/learn-python-3
-5. Command line: https://www.codecademy.com/learn/learn-the-command-line
+5. Network Pen Test: https://www.udemy.com/course/network-penetration-testing-ethical-hacking-from-scratch/
+6. Command line: https://www.codecademy.com/learn/learn-the-command-line
